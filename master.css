@@ -1,0 +1,165 @@
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.nav {
+  background-color: #3b5998;
+}
+
+.main-name {
+  margin-left: 80px;
+  font-size: 45px;
+}
+
+.main {
+  margin-right: 50px;
+}
+
+.input {
+  color: #000;
+  font-size: 13px;
+  font-family: Helvetica;
+  padding: 3px;
+  width: 150px;
+  height: 23px;
+  border: 1px solid #000;
+}
+
+.label {
+  font-size: 12px;
+  font-family: Helvetica;
+}
+
+.pass {
+  margin-left: 30px;
+}
+
+.pass-text {
+  margin-top: -0.3px;
+  font-size: 12px;
+  font-family: Helvetica;
+}
+
+.page-text {
+  font-size: 20px;
+  color: #0b1d3c;
+  font-family: Helvetica;
+  margin-left: 30px;
+}
+
+.header {
+  color: #090909;
+  font-size: 40px;
+  font-family: Helvetica;
+}
+
+.sub-header {
+  color: #090909;
+  margin-top: -10px;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+.btn {
+  font-family: Helvetica;
+  padding-right: 8px;
+  padding-left: 8px;
+  height: 24px;
+  text-align: center;
+  font-size: 11px;
+  border: 1px solid #203d7a;
+  border-radius: 2px;
+  margin-top: 24px;
+}
+
+.name-input{
+  height: 40px;
+  padding: 5px;
+  font-family: Helvetica;
+}
+
+.email-input{
+  width: 363px;
+  height: 40px;
+  padding: 5px;
+  font-family: Helvetica;
+}
+
+.password-input{
+  width: 363px;
+  height: 40px;
+  padding: 5px;
+  font-family: Helvetica;
+}
+
+.container {
+  background-image: linear-gradient(#ffffff, #dfe3ee);
+}
+
+.email-container {
+  margin-top: 10px;
+}
+
+.password-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.birth {
+  font-family: Helvetica;
+}
+
+.select-day {
+  width: 60px;
+}
+
+.select-month {
+  width: 70px;
+}
+
+.select-year {
+  width: 60px;
+}
+
+.gender {
+  margin-top: 10px;
+}
+
+.gen {
+  margin-left: 20px;
+}
+
+.gener-name {
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+.terms {
+  font-size: 13px;
+  font-family: Helvetica;
+}
+
+.sub-btn {
+  background-color: #42791c;
+  width: 190px;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+.sub-down {
+  font-family: Helvetica;
+}
+
+.out {
+  color: #3b5998;
+}
+
+.sub-container {
+  margin-top: 50px;
+}
+
+.foot {
+  font-family: Helvetica;
+  font-family: 18px;
+}
